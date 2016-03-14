@@ -1,0 +1,9 @@
+{
+  "name": "mysql_test",
+  "description": "mysql_test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "mysql" : "*"
+  }
+}
