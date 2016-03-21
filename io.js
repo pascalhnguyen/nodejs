@@ -4,4 +4,10 @@ var buf = fs.readFileSync(process.argv[2])
 
 var str = buf.toString()
 
-console.log(str)
+var res = str.split("\n")
+
+var num = res.length
+
+console.log(num)
+
+//console.log(str)
